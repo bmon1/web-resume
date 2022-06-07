@@ -347,11 +347,11 @@ hr.solid {
 }
 
 .skill_chart {
-  padding: 2rem;
+  padding: 0rem 2rem;
   grid-column: 4 / 6;
 }
 
 .about_me {
-  padding-top: 10rem;
+  padding-top: 2rem;
   grid-column: 1 / 3;
 }

@@ -336,9 +336,9 @@ hr.solid {
 }
 
 .Branden_img {
-  position: absolute;
+  /*position: absolute;
   top: 52rem;
-  left: 28rem;
+  left: 28rem;*/
   border-radius: 25px;
   min-width: 12rem;
   max-width: 12rem;

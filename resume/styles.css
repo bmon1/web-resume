@@ -62,7 +62,7 @@ a.contact_link:hover {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 100%;
+  width: 100vw;
 }
 
 .info {
